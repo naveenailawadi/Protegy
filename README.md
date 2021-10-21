@@ -1,6 +1,8 @@
 # Curriculum
-- rule 1: code every day
-- rule 2: don't forget rule 1
+- rule 1: type every line of code in a tutorial
+    - it's all about practice
+- rule 2: code every day
+- rule 3: don't forget rule 2
 
 ## Python Basics
 - get the basics down before you do anything
@@ -33,7 +35,7 @@
 ## Pandas
 - understand how to work with data (python's greatest advantage!)
     - [Corey Schafer Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer)
-- test out your knowledge by printing all the emails in Pandas / emails.csv
+- test out your knowledge by printing all the emails in Pandas/emails.csv
     - solution in Pandas/printingemails.py
 
 ## Web Scraping with Beautiful Soup
