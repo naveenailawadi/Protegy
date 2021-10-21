@@ -4,7 +4,7 @@
 
 ## Python Basics
 - get the basics down before you do anything
-    - https: // www.youtube.com / watch?v = rfscVS0vtbw & ab_channel = freeCodeCamp.org
+    - [Free Code Camp Intro Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org)
 - work with dictionaries and return the juice type from a function
     - dictionaries:
     ```py
@@ -30,13 +30,13 @@
     ```
 
 ## Pandas
-- understand how to work with data(python's greatest advantage!)
-    - https: // www.youtube.com / watch?v = ZyhVh - qRZPA & list = PL - osiE80TeTsWmV9i9c58mdDCSskIFdDS & ab_channel = CoreySchafer
+- understand how to work with data (python's greatest advantage!)
+    - [Corey Schafer Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer)
 - test out your knowledge by printing all the emails in Pandas / emails.csv
     - solution in Pandas / printingemails.py
 
 ## Web Scraping with Beautiful Soup
 - learn the basics of web scraping and interacting with websites
-    - https: // www.youtube.com / watch?v = XVv6mJpFOb0
+    - [Free Code Camp Beautiful Soup Tutorial](https://www.youtube.com/watch?v=XVv6mJpFOb0)
 - get a professional - grade understanding of practicing and using the library
-    - https: // www.youtube.com / watch?v = ng2o98k983k & t = 2s
+    - [Corey Schafer Tutorial](https://www.youtube.com/watch?v=ng2o98k983k&t=2s)
