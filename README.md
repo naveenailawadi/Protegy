@@ -39,4 +39,4 @@
 - learn the basics of web scraping and interacting with websites
     - [Free Code Camp Beautiful Soup Tutorial](https://www.youtube.com/watch?v=XVv6mJpFOb0)
 - get a professional - grade understanding of practicing and using the library
-    - [Corey Schafer Tutorial](https://www.youtube.com/watch?v=ng2o98k983k&t=2s)
+    - [Corey Schafer Beautiful Soup Tutorial](https://www.youtube.com/watch?v=ng2o98k983k&t=2s)
