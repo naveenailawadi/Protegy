@@ -32,14 +32,32 @@
     ```
     - solution in Classes/classesobjects.py
 
-## Pandas
+## Pandas - Fundamentals of Working with Data
 - understand how to work with data (python's greatest advantage!)
     - [Corey Schafer Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer)
 - test out your knowledge by printing all the emails in Pandas/emails.csv
     - solution in Pandas/printingemails.py
 
-## Web Scraping with Beautiful Soup
+## Beautiful Soup - Intro to Web Scraping
 - learn the basics of web scraping and interacting with websites
     - [Free Code Camp Beautiful Soup Tutorial](https://www.youtube.com/watch?v=XVv6mJpFOb0)
-- get a professional - grade understanding of practicing and using the library
+- get a professional grade understanding of practicing and using the library
     - [Corey Schafer Beautiful Soup Tutorial](https://www.youtube.com/watch?v=ng2o98k983k&t=2s)
+- connect your scraping experience with pandas
+    - convert BeautifulSoup/scrapeCoreysCSV.py to use pandas instead of the csv library (this may require some googling)
+        - solution in BeautifulSoup/scrapeCoreyPandas.py
+- understand modularity
+    - build a function that takes a website as an argument and returns the title (in the `<title>` tag)
+        - solution in BeautifulSoup/getTitle.py
+
+## Selenium - Web Scraping and Automation
+- learn how to webscrape using more complex automation tools
+    - [Free Code Camp Selenium Tutorial](https://www.youtube.com/watch?v=j7VZsCCnptM&ab_channel=freeCodeCamp.org)
+
+## Multithreading & Multiprocessing - Using the Full Machine
+- understand a new code format
+    - [Corey Schafer if __name__ == '__main__' Tutorial](https://www.youtube.com/watch?v=sugvnHA7ElY)
+- threading allows you to run tasks while other tasks are waiting
+    - [Corey Schafer Threading Tutorial](https://www.youtube.com/watch?v=IEEhzQoKtQU)
+- multiprocessing allows multiple functions to run in parallel, allowing you to use the full resources of your computer
+    - [Corey Schafer Multiprocessing Tutorial](https://www.youtube.com/watch?v=fKl2JW_qrso&t=313s)
