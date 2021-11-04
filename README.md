@@ -53,6 +53,12 @@
 ## Selenium - Web Scraping and Automation
 - learn how to webscrape using more complex automation tools
     - [Free Code Camp Selenium Tutorial](https://www.youtube.com/watch?v=j7VZsCCnptM&ab_channel=freeCodeCamp.org)
+- interact with my website!
+    - use a bot to do the following:
+        - go to my website: https://entredeveloperslab.com
+        - click the contact page (top right button)
+        - send me a message with the form
+    - solution in Selenium/browser_interactions.py
 - make a Spotify Bot!
     - Bot Actions:
         - Open Spotify
