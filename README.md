@@ -53,6 +53,14 @@
 ## Selenium - Web Scraping and Automation
 - learn how to webscrape using more complex automation tools
     - [Free Code Camp Selenium Tutorial](https://www.youtube.com/watch?v=j7VZsCCnptM&ab_channel=freeCodeCamp.org)
+- make a Spotify Bot!
+    - Bot Actions:
+        - Open Spotify
+        - Log In to Spotify (make username, password inputs for the user)
+        - Click a Playlist (on the left)
+        - Click Play
+        - Sleep for 5 minutes with time.sleep(300) (leave the music playing on your computer)
+        - Close the Bot
 
 ## Multithreading & Multiprocessing - Using the Full Machine
 - understand a new code format
