@@ -51,8 +51,8 @@
         - solution in BeautifulSoup/getTitle.py
 
 ## Selenium - Web Scraping and Automation
-- learn how to webscrape using more complex automation tools
-    - [Free Code Camp Selenium Tutorial](https://www.youtube.com/watch?v=j7VZsCCnptM&ab_channel=freeCodeCamp.org)
+- learn how to webscrape and automate using more complex automation tools
+    - [Frank Andrade Selenium Tutorial](https://www.youtube.com/watch?v=UOsRrxMKJYk&ab_channel=FrankAndrade)
 - interact with my website!
     - use a bot to do the following:
         - go to my website: https://entredeveloperslab.com
@@ -67,6 +67,24 @@
         - Click Play
         - Sleep for 5 minutes with time.sleep(300) (leave the music playing on your computer)
         - Close the Bot
+    - solution in Selenium/spotify_script.py
+
+## Learn about Classes
+- learn about classes
+    - [Corey Schafer Classes Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- object orient your Spotify Bot
+    - data members (in init)
+        - in init, make self.driver
+    - make a bot class with the following functions
+        - login
+            - takes a self, username, and password argument
+        - play playlist
+            - takes a self, playlist url argument
+        - close
+            - takes a self argument
+    - use the class to do the same task (play a playlist)
+- integrate pandas with your Spotify Bot (review the pandas tutorials if necessary)
+    - play 10 playlists from a csv
 
 ## Multithreading & Multiprocessing - Using the Full Machine
 - understand a new code format
