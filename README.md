@@ -93,3 +93,12 @@
     - [Corey Schafer Threading Tutorial](https://www.youtube.com/watch?v=IEEhzQoKtQU)
 - multiprocessing allows multiple functions to run in parallel, allowing you to use the full resources of your computer
     - [Corey Schafer Multiprocessing Tutorial](https://www.youtube.com/watch?v=fKl2JW_qrso&t=313s)
+
+## Web Development
+- learn web development from the ground up (understand html, css, backend, and frontend)
+    - [Corey Schafer Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- understand server-side infrastructure, get a better handle on sql
+    - [Sentdex Flask Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
+    - note: this is much more advanced, you will have serious web development skills by the end of this tutorial
+- make backend api development easier with flask restful
+    - [Melvin L Flask Restful Tutorial](https://www.youtube.com/watch?v=s_ht4AKnWZg&ab_channel=MelvinL)
