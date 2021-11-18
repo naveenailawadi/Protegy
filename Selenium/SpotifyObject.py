@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
 import sys
 from webdriver_manager.chrome import ChromeDriverManager
 import time
@@ -28,10 +29,13 @@ class SpotifyBot:
         login_button.click()
         time.sleep(5)
 
-        dismiss_button = self.driver.find_element(
-            By.XPATH, '//div[@class="bud10Wp39_iwW7cT_xcv"]//button[@class="Button-sc-1dqy6lx-0 ccVfjR vDBT9Q6Z8bqFDw0SO1e4 Sm8rqtVFvZY5yMoaPmU_"]')
-        dismiss_button.click()
-        time.sleep(5)
+        try:
+            dismiss_button = self.driver.find_element(
+                By.XPATH, '//div[@class="bud10Wp39_iwW7cT_xcv"]//button[@class="Button-sc-1dqy6lx-0 ccVfjR vDBT9Q6Z8bqFDw0SO1e4 Sm8rqtVFvZY5yMoaPmU_"]')
+            dismiss_button.click()
+            time.sleep(5)
+        except NoSuchElementException:
+            pass
 
     def play_playlist(self, playlist_url, play_time):
         self.driver.get(playlist_url)
