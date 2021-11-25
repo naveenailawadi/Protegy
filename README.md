@@ -93,6 +93,14 @@
     - [Corey Schafer Threading Tutorial](https://www.youtube.com/watch?v=IEEhzQoKtQU)
 - multiprocessing allows multiple functions to run in parallel, allowing you to use the full resources of your computer
     - [Corey Schafer Multiprocessing Tutorial](https://www.youtube.com/watch?v=fKl2JW_qrso&t=313s)
+- make a New York Times Scraper!
+    - Note: I do not advocate doing this outside of educational purposes. Please purchase a subscription if you wish to read the newspaper regularly.
+    - make a class to house your methods
+        - make a function that gets all the headlines from the homepages
+        - make a function that stores the text (all the p tags) from each article in its own text file
+            - you can see how to make files in Multiprocessing/make_file.py (note: you can also append to files with the 'a' mode)
+    - solution in Multiprocessing/NYTScraper.py
+
 
 ## Web Development
 - learn web development from the ground up (understand html, css, backend, and frontend)
@@ -102,3 +110,6 @@
     - note: this is much more advanced, you will have serious web development skills by the end of this tutorial
 - make backend api development easier with flask restful
     - [Melvin L Flask Restful Tutorial](https://www.youtube.com/watch?v=s_ht4AKnWZg&ab_channel=MelvinL)
+
+## Desktop UIs
+- learn how to use your web development skills to build interactive platforms with eel
