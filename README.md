@@ -8,6 +8,7 @@
 - get the basics down before you do anything
     - [Free Code Camp Intro Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org)
 - work with dictionaries and return the juice type from a function
+    - review functions: [Corey Schafer Functions Tutorial](https://www.youtube.com/watch?v=9Os0o3wzS_I)
     - dictionaries:
     ```py
     orange = {'name': 'orange', 'juice_type': 'orange juice'}
