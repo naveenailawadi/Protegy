@@ -8,6 +8,8 @@
 - get the basics down before you do anything
     - [Free Code Camp Intro Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org)
 - reference for basic python concepts: [Corey Schafer Python Beginner Concepts Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+    - note: you can do all of these for an in-depth understanding of them
+    - much of this information will be picked up along your programming career, so I would not expect everyone to focus on learning it early on as it is quite dry
 - work with dictionaries and return the juice type from a function
     - review functions: [Corey Schafer Functions Tutorial](https://www.youtube.com/watch?v=9Os0o3wzS_I)
     - dictionaries:
@@ -36,6 +38,8 @@
 
 ## Pandas - Fundamentals of Working with Data
 - understand how to work with data (python's greatest advantage!)
+    - any basic understanding of data requires an undestanding of lists
+        - [Corey Schafer Lists Tutorial](https://www.youtube.com/watch?v=W8KRzm-HUcc&ab_channel=CoreySchafer)
     - [Corey Schafer Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer)
 - test out your knowledge by printing all the emails in Pandas/emails.csv
     - solution in Pandas/printingemails.py
