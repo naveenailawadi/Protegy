@@ -111,11 +111,21 @@
 ## Web Development
 - learn web development from the ground up (understand html, css, backend, and frontend)
     - [Corey Schafer Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
-- understand server-side infrastructure, get a better handle on sql
+- OPTIONAL: understand server-side infrastructure, get a better handle on sql
     - [Sentdex Flask Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
     - note: this is much more advanced, you will have serious web development skills by the end of this tutorial
+    - I recommend learning the apache setup at the beginning for gaining increased understanding of working with servers
 - make backend api development easier with flask restful
     - [Melvin L Flask Restful Tutorial](https://www.youtube.com/watch?v=s_ht4AKnWZg&ab_channel=MelvinL)
 
 ## Desktop UIs
 - learn how to use your web development skills to build interactive platforms with eel
+    - [Sourav Johar Eel Tutorial](https://www.youtube.com/watch?v=iy2aKf9AAvc)
+
+## Continued Learning
+- there are always new projects and applications for programming, so keep reading medium articles about new python skills
+- a few skills I have found useful and/or interesting
+    - creating a telegram bot
+    - GIS with geopandas
+    - working with financial data with the yahoo finance api
+    - and many more!
