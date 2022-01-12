@@ -129,3 +129,4 @@
     - GIS with geopandas
     - working with financial data with the yahoo finance api
     - and many more!
+- if you really like programming, reach out to me at admin@entredeveloperslab.com to collaborate on some upcoming projects!
