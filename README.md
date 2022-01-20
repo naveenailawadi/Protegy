@@ -117,6 +117,7 @@
     - I recommend learning the apache setup at the beginning for gaining increased understanding of working with servers
 - make backend api development easier with flask restful
     - [Melvin L Flask Restful Tutorial](https://www.youtube.com/watch?v=s_ht4AKnWZg&ab_channel=MelvinL)
+- learn javascript: [Learn Code Academy Tutorial](https://www.youtube.com/watch?v=G-POtu9J-m4&list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_&index=2)
 
 ## Desktop UIs
 - learn how to use your web development skills to build interactive platforms with eel
