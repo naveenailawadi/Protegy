@@ -1,11 +1,12 @@
-from models import db, ConfigModel, PromptGroupModel, PromptModel, ResponseGroupModel, ResponseModel
-import models
+from models import db, ConfigModel, PromptGroupModel, ResponseGroupModel, ResponseModel
 import discord
 import requests
 import json
 import random
 
 client = discord.Client()
+
+TOKEN = ''
 
 respondingConfig = ConfigModel.query.filter_by(key='responding').first()
 if not (respondingConfig.value is True):
@@ -135,4 +136,4 @@ async def on_message(message):
             await message.channel.send("Responding is off.")
 
 if __name__ == '__main__':
-    client.run('OTQ2NTYzNzM5MTQ5MjgzMzg4.YhgiLQ.DXk4EJYy8lynNqnyywjPgpdAZeI')
+    client.run(TOKEN)
