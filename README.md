@@ -130,4 +130,5 @@
     - [creating a telegram bot](https://betterprogramming.pub/how-to-get-data-from-telegram-82af55268a4b)
     - [GIS with geopandas](https://www.analyticsvidhya.com/blog/2021/09/how-to-visualise-data-in-maps-using-geopandas/)
     - [working with financial data with the yahoo finance api](https://towardsdatascience.com/free-stock-data-for-python-using-yahoo-finance-api-9dafd96cad2e)
+    - [discord bots](https://www.youtube.com/watch?v=SPTfmiYiuok&ab_channel=freeCodeCamp.org)
 - if you really like programming, reach out to me at admin@entredeveloperslab.com to collaborate on some upcoming projects!
