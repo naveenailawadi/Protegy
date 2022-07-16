@@ -118,6 +118,7 @@
 - make backend api development easier with flask restful
     - [Melvin L Flask Restful Tutorial](https://www.youtube.com/watch?v=s_ht4AKnWZg&ab_channel=MelvinL)
 - learn javascript: [Learn Code Academy Tutorial](https://www.youtube.com/watch?v=G-POtu9J-m4&list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_&index=2)
+- learn mustache.js (very important to have templating engines):[2019 Team Learnable Tutorial](https://www.youtube.com/watch?v=mguNnJP5drw&ab_channel=TeamLearnable)
 
 ## Desktop UIs
 - learn how to use your web development skills to build interactive platforms with eel
